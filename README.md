@@ -29,7 +29,6 @@ Práctica de automatización industrial que implementa el control de un sistema 
 │   └── 📄 control_cintas.ap19          # Archivo del proyecto (TIA Portal)
 ├── 📁 factoryio/                       # Escena de simulación
 │   └── 📄 escena_cintas.factoryio      # Escena preconfigurada de Factory I/O
-└── 📄 .gitignore
 ```
 
 ---
