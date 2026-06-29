@@ -35,7 +35,7 @@ Práctica de automatización industrial que implementa el control de un sistema 
 
 ## 📝 Descripción general
 
-El sistema controla **dos cintas transportadoras independientes** (Conveyor 1 y Conveyor 2) que convergen en una zona de transferencia. Las cintas transportan palés con cajas desde sus respectivas entradas hasta una salida común. El programa gestiona la lógica de prioridad, el conteo de producción y los distintos modos de parada mediante un **Grafcet** implementado en TIA Portal.
+El sistema controla **dos cintas transportadoras independientes** (Conveyor 1 y Conveyor 2) que convergen en una zona de transferencia. Las cintas transportan palés con cajas desde sus respectivas entradas hasta una salida común. El programa gestiona la lógica de prioridad, el conteo de producción y los distintos modos de parada mediante **Grafcets** implementados en TIA Portal.
 
 La simulación física se realiza íntegramente en **Factory I/O**, comunicada con el PLC virtual **PLCSIM** a través del driver de Factory I/O para Siemens.
 
